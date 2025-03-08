@@ -1,0 +1,3 @@
+[submodule "chinese_dictionary"]
+	path = chinese_dictionary
+	url = https://github.com/guotong1988/chinese_dictionary.git

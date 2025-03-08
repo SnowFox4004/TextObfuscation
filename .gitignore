@@ -1,0 +1,5 @@
+fictions/*
+datasets/*
+data_converted/*
+__pycache__/*
+merged.json
