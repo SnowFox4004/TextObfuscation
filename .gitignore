@@ -3,3 +3,4 @@ datasets/*
 data_converted/*
 __pycache__/*
 merged.json
+chinese_dictionary_bak/
